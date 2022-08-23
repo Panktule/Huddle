@@ -46,6 +46,10 @@
     gap: 50px;
     margin-top: 200px;
     background-color: white;
+    border: 1px solid rgb(231, 227, 227);
+    border-radius: 5px;
+    margin-left: 20px;
+    margin-right: 20px;
 }
 
 .new{
@@ -60,6 +64,10 @@
     display: flex;
     gap: 50px;
     margin-top: 50px;
+    border: 1px solid rgb(231, 227, 227);
+    border-radius: 5px;
+    margin-left: 20px;
+    margin-right: 20px;
 }
 .people{
     padding-right: 200px;
@@ -73,6 +81,10 @@
     display: flex;
     gap: 50px;
     margin-top: 50px;
+    border: 1px solid rgb(231, 227, 227);
+    border-radius: 5px;
+    margin-left: 20px;
+    margin-right: 20px;
 }
 .nop{
     padding-right: 200px;
@@ -92,8 +104,10 @@
     margin-inline: auto;
     text-align: center;
     background-color: white;
+    border: 1px solid rgb(231, 227, 227);
     border-radius: 10px;
     box-shadow: black;
+
 }
 .song button{
     background-color: rgb(189, 34, 189);
@@ -121,6 +135,7 @@
     padding-right: 200px;
 }
 .golo{
+    color: white;
     padding-bottom: 50px;
 }
 .sec{
@@ -142,12 +157,13 @@
 }
 .twitter{
     padding-right: 10px;
-    border-radius: 100px;
+    border-radius: 10px;
 }
 .insta{
     padding-right: 10px;
-    border-radius: 100px;
+    border-radius: 10px;
 }
 .lasty{
     float: right;
+    padding-bottom: 50px;
 }
