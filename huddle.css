@@ -1,0 +1,153 @@
+.header{
+    display: flex;
+    gap: 1100px;
+    padding-left: 50px;
+    padding-top: 50px;
+}
+.try button{
+    font-size: x-small;
+    background-color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 20px;
+    padding-left: 20px;
+    border-radius: 10px;
+}
+.get button{
+    background-color:  rgb(189, 34, 189);;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 25px;
+    padding-right: 25px;
+    border-radius: 15px;
+}
+
+.cone{
+    display: flex;
+    
+}
+.one{
+    margin-top: 130px;
+    padding-left: 50px;
+    padding-right: 150px;
+}
+.form{
+    margin-top: 40px;
+    padding-right: 150px;
+}
+.container{
+    background-color: rgb(195, 240, 240);
+    background-image: 
+    url("bg-hero-desktop.svg");
+}
+.first{
+    display: flex;
+    gap: 50px;
+    margin-top: 200px;
+    background-color: white;
+}
+
+.new{
+    padding-right: 200px;
+    padding-left: 200px;
+    margin-top: 100px;
+}
+.guy{
+    padding-right: 200px;
+}
+.second{
+    display: flex;
+    gap: 50px;
+    margin-top: 50px;
+}
+.people{
+    padding-right: 200px;
+    padding-left: 200px;
+}
+.dap{
+    margin-top: 100px;
+    padding-right: 200px;
+}
+.third{
+    display: flex;
+    gap: 50px;
+    margin-top: 50px;
+}
+.nop{
+    padding-right: 200px;
+    padding-left: 200px;
+    margin-top: 100px;
+}
+.users{
+    padding-right: 200px;
+
+}
+.cave{
+    position: relative;
+    top: 5em;
+    padding: 2em;
+    width: fit-content;
+    /* margin: 0 auto; */
+    margin-inline: auto;
+    text-align: center;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: black;
+}
+.song button{
+    background-color: rgb(189, 34, 189);
+    color: white;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 50px;
+    padding-right: 50px;
+    border-radius: 100px;
+}
+.men h2 {
+    color:  rgb(0, 32, 70);
+}
+.footer {
+    background-color: rgb(0, 32, 70);
+    height: 25em;
+    display: flex;
+    gap: 20px;
+    padding-left: 80px;
+    padding-right: 150px;
+    padding-top: 180px;
+    color: white;
+}
+.baba{
+    padding-right: 200px;
+}
+.golo{
+    padding-bottom: 50px;
+}
+.sec{
+    padding-top: 115px;
+    padding-right: 110px;
+}
+.rub{
+    padding-top: 115px;
+    padding-right: 50px;
+}
+.socials{
+    display: flex;
+    padding-right: 400px;
+    padding-top:  115px;
+}
+.facebook{
+    padding-right: 10px;
+    border-radius: 20px;
+}
+.twitter{
+    padding-right: 10px;
+    border-radius: 100px;
+}
+.insta{
+    padding-right: 10px;
+    border-radius: 100px;
+}
+.lasty{
+    float: right;
+}
